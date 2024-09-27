@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    background: #ffbfb1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #ff3b2f;
+}
+
+
+
+
+
+    
+       
+
+    
+
